@@ -1,0 +1,18 @@
+{
+    "author": {
+        "email": "dflinn@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Tracking of ship locations using ArkNav GPS devices",
+    "domains": [],
+    "gateways": [],
+    "image_url": "",
+    "keywords": [],
+    "license": "",
+    "name": "SmartShip",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": ""
+}
