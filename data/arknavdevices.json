@@ -1,0 +1,85 @@
+{
+    "app_id": "d0ca88ab0bcaf5f496acbdcae540",
+    "collection_id": "f4e3efac0be2eda683d7dfa6db50",
+    "items": [
+        {
+            "firstname": "MNav",
+            "icon": "https://image.flaticon.com/icons/svg/46/46053.svg",
+            "imei": "353161071697125",
+            "lastname": "One",
+            "lat": 54.62834930419922,
+            "long": -1.3090167045593262,
+            "positiontimestamp": "2018-04-12T17:46:00Z"
+        },
+        {
+            "firstname": "MNav",
+            "icon": "https://image.flaticon.com/icons/svg/46/46053.svg",
+            "imei": "353161071702230",
+            "lastname": "Two",
+            "lat": 54.628623962402344,
+            "long": -1.3087667226791382,
+            "positiontimestamp": "2018-04-12T17:45:59Z"
+        },
+        {
+            "firstname": "MNav",
+            "icon": "https://image.flaticon.com/icons/svg/46/46053.svg",
+            "imei": "353161071697059",
+            "lastname": "Four",
+            "lat": 54.62862777709961,
+            "long": -1.3087832927703857,
+            "positiontimestamp": "2018-04-12T17:45:59Z"
+        },
+        {
+            "firstname": "MNav",
+            "icon": "https://image.flaticon.com/icons/svg/46/46053.svg",
+            "imei": "353161071690781",
+            "lastname": "Three",
+            "lat": 43.77732849121094,
+            "long": 7.498799800872803,
+            "positiontimestamp": "2018-04-12T17:45:31Z"
+        }
+    ],
+    "name": "arknavdevices",
+    "permissions": {
+        "Administrator": 5,
+        "Anonymous": 5,
+        "Authenticated": 5
+    },
+    "schema": [
+        {
+            "ColumnName": "imei",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "lat",
+            "ColumnType": "float",
+            "PK": false
+        },
+        {
+            "ColumnName": "long",
+            "ColumnType": "float",
+            "PK": false
+        },
+        {
+            "ColumnName": "firstname",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "lastname",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "icon",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "positiontimestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        }
+    ]
+}
