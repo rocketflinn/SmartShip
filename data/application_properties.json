@@ -1,0 +1,64 @@
+{
+    "app_id": "d0ca88ab0bcaf5f496acbdcae540",
+    "collection_id": "d2ca88ab0bc8b1afe3c4e6b5a901",
+    "items": [
+        {
+            "property_name": "mapbox_api_key",
+            "property_value": "pk.eyJ1IjoicnJlaW5vbGQiLCJhIjoiY2lwOTllOGQ2MDB4Y2VhbnJnMWtzcW9qaiJ9.1mNTDQ5rwabgUL9onzaLxg"
+        },
+        {
+            "property_name": "finalzoom",
+            "property_value": "10"
+        },
+        {
+            "property_name": "initialzoom",
+            "property_value": "10"
+        },
+        {
+            "property_name": "initialcenter",
+            "property_value": "[7.2148,43.6598]"
+        },
+        {
+            "property_name": "mappitch",
+            "property_value": "0"
+        },
+        {
+            "property_name": "finalcenter",
+            "property_value": "[7.2148,43.6598]"
+        },
+        {
+            "property_name": "transitionspeed",
+            "property_value": "3"
+        },
+        {
+            "property_name": "recordage",
+            "property_value": "45"
+        },
+        {
+            "property_name": "batterywarn",
+            "property_value": "40"
+        },
+        {
+            "property_name": "map_showmouselatlng",
+            "property_value": "true"
+        }
+    ],
+    "name": "application_properties",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 1,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "property_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "property_value",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
