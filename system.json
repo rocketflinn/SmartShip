@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "SmartShip",
+    "platform_url": "https://mcore.clearblade.com",
+    "system_key": "d0ca88ab0bcaf5f496acbdcae540",
+    "system_secret": "D0CA88AB0BCE81F5EFF5CEC2E457"
+}
